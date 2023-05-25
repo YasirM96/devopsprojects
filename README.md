@@ -78,8 +78,6 @@ These pipeline scripts are intended for automating the build, test, and analysis
 
 You can modify and extend the pipeline to include additional stages, such as integration testing, deployment, or any other specific requirements of your project.
 
-If you encounter any issues or need assistance, feel free to reach out for support.
-
 Happy building and automating your web applications with Jenkins!
 
 Best regards,
